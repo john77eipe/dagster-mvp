@@ -1,0 +1,1 @@
+from .repository import cereal_project_repo

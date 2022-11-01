@@ -1,0 +1,3 @@
+load_from:
+  - python_package: cereal_project
+  # - python_package: helloworld_project
